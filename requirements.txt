@@ -1,0 +1,15 @@
+gensim
+matplotlib
+nltk
+numpy
+pandas
+plotly
+dash
+scikit-learn
+scipy
+seaborn
+spacy
+textblob
+tqdm
+wordcloud
+xgboost
